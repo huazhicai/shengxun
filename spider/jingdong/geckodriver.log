@@ -1,0 +1,345 @@
+1508415684833	geckodriver	INFO	geckodriver 0.19.0
+1508415684847	geckodriver	INFO	Listening on 127.0.0.1:8644
+1508415686874	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofile.dvs7V6A8UDbN"
+1508415687532	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1508415688880	Marionette	INFO	Enabled via --marionette
+1508415694219	Marionette	INFO	Listening on port 8665
+1508415694708	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508415694757	Marionette	DEBUG	Register listener.js for window 4294967297
+1508415694860	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508415695066	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508415695066	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1508415695659	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.jd.com/"
+1508415697320	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.jd.com/"
+1508415697568	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.jd.com/"
+JavaScript error: https://misc.360buyimg.com/??/jdf/lib/jquery-1.6.4.js,/jdf/2.0.0/ui/ui/1.0.0/ui.js,/mtd/pc/index/2.0.0/gb/lib.min.js,/mtd/pc/base/1.0.0/base.js,/mtd/pc/common/js/o2_ua.js,/mtd/pc/index/2.0.0/home/index.min.js,/mtd/pc/index/2.0.0/home/init.min.js, line 8: TypeError: e is not a constructor
+JavaScript error: https://misc.360buyimg.com/??/jdf/lib/jquery-1.6.4.js,/jdf/2.0.0/ui/ui/1.0.0/ui.js,/mtd/pc/index/2.0.0/gb/lib.min.js,/mtd/pc/base/1.0.0/base.js,/mtd/pc/common/js/o2_ua.js,/mtd/pc/index/2.0.0/home/index.min.js,/mtd/pc/index/2.0.0/home/init.min.js, line 8: TypeError: e is not a constructor
+JavaScript error: https://misc.360buyimg.com/??/jdf/lib/jquery-1.6.4.js,/jdf/2.0.0/ui/ui/1.0.0/ui.js,/mtd/pc/index/2.0.0/gb/lib.min.js,/mtd/pc/base/1.0.0/base.js,/mtd/pc/common/js/o2_ua.js,/mtd/pc/index/2.0.0/home/index.min.js,/mtd/pc/index/2.0.0/home/init.min.js, line 8: TypeError: e is not a constructor
+1508415697915	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.jd.com/"
+1508415697915	Marionette	DEBUG	Received DOM event "unload" for "https://www.jd.com/"
+1508415698623	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://search.jd.com/Search?keyword=%E9%9D%A2%E8%86%9C%E5%BE%A1%E6%B3%A5%E5%9D%8A&enc=utf-8&pvid=6dcf45310b0041369e8439893da41997"
+1508415700274	Marionette	DEBUG	Received DOM event "pageshow" for "https://search.jd.com/Search?keyword=%E9%9D%A2%E8%86%9C%E5%BE%A1%E6%B3%A5%E5%9D%8A&enc=utf-8&pvid=6dcf45310b0041369e8439893da41997"
+1508415701535	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Child 512] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 5180] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+581	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1508416010712	Marionette	INFO	Enabled via --marionette
+[Child 10708] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1508416017558	Marionette	INFO	Listening on port 9977
+1508416018561	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508416018677	Marionette	DEBUG	Register listener.js for window 4294967297
+1508416018813	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508416019091	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508416019091	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1508416019780	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.jd.com/"
+1508416022607	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.jd.com/"
+1508416022956	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.jd.com/"
+JavaScript error: https://misc.360buyimg.com/mtd/pc/common/js/toolbar.min.js, line 1: TypeError: require(...) is null
+JavaScript error: https://misc.360buyimg.com/??/jdf/lib/jquery-1.6.4.js,/jdf/2.0.0/ui/ui/1.0.0/ui.js,/mtd/pc/index/2.0.0/gb/lib.min.js,/mtd/pc/base/1.0.0/base.js,/mtd/pc/common/js/o2_ua.js,/mtd/pc/index/2.0.0/home/index.min.js,/mtd/pc/index/2.0.0/home/init.min.js, line 8: TypeError: e is not a constructor
+1508416023414	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.jd.com/"
+1508416023414	Marionette	DEBUG	Received DOM event "unload" for "https://www.jd.com/"
+1508416024079	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://search.jd.com/Search?keyword=%E9%9D%A2%E8%86%9C%E5%BE%A1%E6%B3%A5%E5%9D%8A&enc=utf-8&pvid=19a17114558e4305bedc7139c5f5170c"
+1508416025687	Marionette	DEBUG	Received DOM event "pageshow" for "https://search.jd.com/Search?keyword=%E9%9D%A2%E8%86%9C%E5%BE%A1%E6%B3%A5%E5%9D%8A&enc=utf-8&pvid=19a17114558e4305bedc7139c5f5170c"
+1508416028403	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1508416130161	geckodriver	INFO	geckodriver 0.19.0
+1508416130173	geckodriver	INFO	Listening on 127.0.0.1:10598
+1508416132215	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofile.F4bK1ghYm5tG"
+1508416132759	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1508416133888	Marionette	INFO	Enabled via --marionette
+[Child 9568] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9568] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1508416139442	Marionette	INFO	Listening on port 10613
+1508416139547	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508416139594	Marionette	DEBUG	Register listener.js for window 4294967297
+1508416139693	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508416139888	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508416139888	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1508416140445	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.jd.com/"
+1508416141532	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.jd.com/"
+1508416141746	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.jd.com/"
+1508416142066	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.jd.com/"
+1508416142067	Marionette	DEBUG	Received DOM event "unload" for "https://www.jd.com/"
+1508416142739	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://search.jd.com/Search?keyword=%E9%9D%A2%E8%86%9C%E5%BE%A1%E6%B3%A5%E5%9D%8A&enc=utf-8&pvid=c646989fe60b44c09b3018840594142b"
+1508416144603	Marionette	DEBUG	Received DOM event "pageshow" for "https://search.jd.com/Search?keyword=%E9%9D%A2%E8%86%9C%E5%BE%A1%E6%B3%A5%E5%9D%8A&enc=utf-8&pvid=c646989fe60b44c09b3018840594142b"
+1508416147446	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Parent 10712] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1508416323270	geckodriver	INFO	geckodriver 0.19.0
+1508416323285	geckodriver	INFO	Listening on 127.0.0.1:11384
+1508416325336	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofile.K5b662A2IaHW"
+1508416325822	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1508416326928	Marionette	INFO	Enabled via --marionette
+[Child 5988] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5988] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1508416332326	Marionette	INFO	Listening on port 11395
+1508416332668	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508416332718	Marionette	DEBUG	Register listener.js for window 4294967297
+1508416332822	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508416333109	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508416333109	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1508416333775	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.jd.com/"
+1508416335012	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.jd.com/"
+1508416335251	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.jd.com/"
+JavaScript error: https://misc.360buyimg.com/??/jdf/lib/jquery-1.6.4.js,/jdf/2.0.0/ui/ui/1.0.0/ui.js,/mtd/pc/index/2.0.0/gb/lib.min.js,/mtd/pc/base/1.0.0/base.js,/mtd/pc/common/js/o2_ua.js,/mtd/pc/index/2.0.0/home/index.min.js,/mtd/pc/index/2.0.0/home/init.min.js, line 8: TypeError: e is not a constructor
+JavaScript error: https://misc.360buyimg.com/??/jdf/lib/jquery-1.6.4.js,/jdf/2.0.0/ui/ui/1.0.0/ui.js,/mtd/pc/index/2.0.0/gb/lib.min.js,/mtd/pc/base/1.0.0/base.js,/mtd/pc/common/js/o2_ua.js,/mtd/pc/index/2.0.0/home/index.min.js,/mtd/pc/index/2.0.0/home/init.min.js, line 8: TypeError: e is not a constructor
+JavaScript error: https://misc.360buyimg.com/??/jdf/lib/jquery-1.6.4.js,/jdf/2.0.0/ui/ui/1.0.0/ui.js,/mtd/pc/index/2.0.0/gb/lib.min.js,/mtd/pc/base/1.0.0/base.js,/mtd/pc/common/js/o2_ua.js,/mtd/pc/index/2.0.0/home/index.min.js,/mtd/pc/index/2.0.0/home/init.min.js, line 8: TypeError: e is not a constructor
+1508416335698	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.jd.com/"
+1508416335699	Marionette	DEBUG	Received DOM event "unload" for "https://www.jd.com/"
+1508416336217	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://search.jd.com/Search?keyword=%E9%9D%A2%E8%86%9C%E5%BE%A1%E6%B3%A5%E5%9D%8A&enc=utf-8&pvid=863c2273cd5c4a4492b96ab4859e9b5e"
+1508416338025	Marionette	DEBUG	Received DOM event "pageshow" for "https://search.jd.com/Search?keyword=%E9%9D%A2%E8%86%9C%E5%BE%A1%E6%B3%A5%E5%9D%8A&enc=utf-8&pvid=863c2273cd5c4a4492b96ab4859e9b5e"
+1508416340904	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1508416438594	geckodriver	INFO	geckodriver 0.19.0
+1508416438608	geckodriver	INFO	Listening on 127.0.0.1:11933
+1508416440673	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofile.3fXAGebNOcqX"
+1508416440956	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1508416442054	Marionette	INFO	Enabled via --marionette
+[Child 8244] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8244] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1508416447913	Marionette	INFO	Listening on port 11944
+1508416448021	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508416448068	Marionette	DEBUG	Register listener.js for window 4294967297
+1508416448172	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508416448410	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508416448411	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1508416449226	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.jd.com/"
+1508416450802	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.jd.com/"
+1508416451102	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.jd.com/"
+JavaScript error: https://misc.360buyimg.com/??/jdf/lib/jquery-1.6.4.js,/jdf/2.0.0/ui/ui/1.0.0/ui.js,/mtd/pc/index/2.0.0/gb/lib.min.js,/mtd/pc/base/1.0.0/base.js,/mtd/pc/common/js/o2_ua.js,/mtd/pc/index/2.0.0/home/index.min.js,/mtd/pc/index/2.0.0/home/init.min.js, line 8: TypeError: e is not a constructor
+JavaScript error: https://misc.360buyimg.com/??/jdf/lib/jquery-1.6.4.js,/jdf/2.0.0/ui/ui/1.0.0/ui.js,/mtd/pc/index/2.0.0/gb/lib.min.js,/mtd/pc/base/1.0.0/base.js,/mtd/pc/common/js/o2_ua.js,/mtd/pc/index/2.0.0/home/index.min.js,/mtd/pc/index/2.0.0/home/init.min.js, line 8: TypeError: e is not a constructor
+JavaScript error: https://misc.360buyimg.com/??/jdf/lib/jquery-1.6.4.js,/jdf/2.0.0/ui/ui/1.0.0/ui.js,/mtd/pc/index/2.0.0/gb/lib.min.js,/mtd/pc/base/1.0.0/base.js,/mtd/pc/common/js/o2_ua.js,/mtd/pc/index/2.0.0/home/index.min.js,/mtd/pc/index/2.0.0/home/init.min.js, line 8: TypeError: e is not a constructor
+1508416451522	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.jd.com/"
+1508416451522	Marionette	DEBUG	Received DOM event "unload" for "https://www.jd.com/"
+1508416452101	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://search.jd.com/Search?keyword=%E9%9D%A2%E8%86%9C%E5%BE%A1%E6%B3%A5%E5%9D%8A&enc=utf-8&pvid=1fba2db407344e31b4a8cb78f7e3435a"
+1508416454016	Marionette	DEBUG	Received DOM event "pageshow" for "https://search.jd.com/Search?keyword=%E9%9D%A2%E8%86%9C%E5%BE%A1%E6%B3%A5%E5%9D%8A&enc=utf-8&pvid=1fba2db407344e31b4a8cb78f7e3435a"
+1508416456793	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Parent 13204] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13008] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3448] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1508416721179	geckodriver	INFO	geckodriver 0.19.0
+1508416721191	geckodriver	INFO	Listening on 127.0.0.1:12985
+1508416723265	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofile.zu27aZZjkJMj"
+1508416723563	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1508416724901	Marionette	INFO	Enabled via --marionette
+[Child 9780] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1508416729727	Marionette	INFO	Listening on port 12997
+1508416730600	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508416730647	Marionette	DEBUG	Register listener.js for window 4294967297
+1508416730758	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508416730970	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508416730970	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1508416731368	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.jd.com/"
+1508416732621	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.jd.com/"
+1508416732858	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.jd.com/"
+JavaScript error: https://misc.360buyimg.com/??/jdf/lib/jquery-1.6.4.js,/jdf/2.0.0/ui/ui/1.0.0/ui.js,/mtd/pc/index/2.0.0/gb/lib.min.js,/mtd/pc/base/1.0.0/base.js,/mtd/pc/common/js/o2_ua.js,/mtd/pc/index/2.0.0/home/index.min.js,/mtd/pc/index/2.0.0/home/init.min.js, line 8: TypeError: e is not a constructor
+JavaScript error: https://misc.360buyimg.com/??/jdf/lib/jquery-1.6.4.js,/jdf/2.0.0/ui/ui/1.0.0/ui.js,/mtd/pc/index/2.0.0/gb/lib.min.js,/mtd/pc/base/1.0.0/base.js,/mtd/pc/common/js/o2_ua.js,/mtd/pc/index/2.0.0/home/index.min.js,/mtd/pc/index/2.0.0/home/init.min.js, line 8: TypeError: e is not a constructor
+JavaScript error: https://misc.360buyimg.com/??/jdf/lib/jquery-1.6.4.js,/jdf/2.0.0/ui/ui/1.0.0/ui.js,/mtd/pc/index/2.0.0/gb/lib.min.js,/mtd/pc/base/1.0.0/base.js,/mtd/pc/common/js/o2_ua.js,/mtd/pc/index/2.0.0/home/index.min.js,/mtd/pc/index/2.0.0/home/init.min.js, line 8: TypeError: e is not a constructor
+1508416733226	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.jd.com/"
+1508416733226	Marionette	DEBUG	Received DOM event "unload" for "https://www.jd.com/"
+1508416733939	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://search.jd.com/Search?keyword=%E9%9D%A2%E8%86%9C%E5%BE%A1%E6%B3%A5%E5%9D%8A&enc=utf-8&pvid=5bbd5883076948758132734d779b7f90"
+1508416735636	Marionette	DEBUG	Received DOM event "pageshow" for "https://search.jd.com/Search?keyword=%E9%9D%A2%E8%86%9C%E5%BE%A1%E6%B3%A5%E5%9D%8A&enc=utf-8&pvid=5bbd5883076948758132734d779b7f90"
+1508416738427	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Parent 12408] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3332] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1508417081799	geckodriver	INFO	geckodriver 0.19.0
+1508417081811	geckodriver	INFO	Listening on 127.0.0.1:14340
+1508417083878	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofile.r1LrKei3Dlei"
+1508417084487	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1508417085497	Marionette	INFO	Enabled via --marionette
+1508417091472	Marionette	INFO	Listening on port 14352
+1508417091707	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508417091753	Marionette	DEBUG	Register listener.js for window 4294967297
+1508417091859	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508417092330	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508417092331	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1508417092966	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.jd.com/"
+1508417095081	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.jd.com/"
+1508417095319	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.jd.com/"
+JavaScript error: https://misc.360buyimg.com/??/jdf/lib/jquery-1.6.4.js,/jdf/2.0.0/ui/ui/1.0.0/ui.js,/mtd/pc/index/2.0.0/gb/lib.min.js,/mtd/pc/base/1.0.0/base.js,/mtd/pc/common/js/o2_ua.js,/mtd/pc/index/2.0.0/home/index.min.js,/mtd/pc/index/2.0.0/home/init.min.js, line 8: TypeError: e is not a constructor
+JavaScript error: https://misc.360buyimg.com/??/jdf/lib/jquery-1.6.4.js,/jdf/2.0.0/ui/ui/1.0.0/ui.js,/mtd/pc/index/2.0.0/gb/lib.min.js,/mtd/pc/base/1.0.0/base.js,/mtd/pc/common/js/o2_ua.js,/mtd/pc/index/2.0.0/home/index.min.js,/mtd/pc/index/2.0.0/home/init.min.js, line 8: TypeError: e is not a constructor
+JavaScript error: https://misc.360buyimg.com/??/jdf/lib/jquery-1.6.4.js,/jdf/2.0.0/ui/ui/1.0.0/ui.js,/mtd/pc/index/2.0.0/gb/lib.min.js,/mtd/pc/base/1.0.0/base.js,/mtd/pc/common/js/o2_ua.js,/mtd/pc/index/2.0.0/home/index.min.js,/mtd/pc/index/2.0.0/home/init.min.js, line 8: TypeError: e is not a constructor
+1508417095818	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.jd.com/"
+1508417095819	Marionette	DEBUG	Received DOM event "unload" for "https://www.jd.com/"
+1508417096519	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://search.jd.com/Search?keyword=%E9%9D%A2%E8%86%9C%E5%BE%A1%E6%B3%A5%E5%9D%8A&enc=utf-8&pvid=60da319c4bbf4bfca003cceb45e4a202"
+1508417103066	Marionette	DEBUG	Received DOM event "pageshow" for "https://search.jd.com/Search?keyword=%E9%9D%A2%E8%86%9C%E5%BE%A1%E6%B3%A5%E5%9D%8A&enc=utf-8&pvid=60da319c4bbf4bfca003cceb45e4a202"
+1508417105493	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1508417289145	geckodriver	INFO	geckodriver 0.19.0
+1508417289157	geckodriver	INFO	Listening on 127.0.0.1:1203
+1508417291217	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofile.EeQji4RPB3S2"
+1508417291925	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1508417292891	Marionette	INFO	Enabled via --marionette
+[Child 11948] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1508417298354	Marionette	INFO	Listening on port 1214
+1508417298547	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508417298601	Marionette	DEBUG	Register listener.js for window 4294967297
+1508417298697	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508417299026	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508417299026	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1508417299538	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.jd.com/"
+1508417301432	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.jd.com/"
+1508417301692	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.jd.com/"
+JavaScript error: https://misc.360buyimg.com/??/jdf/lib/jquery-1.6.4.js,/jdf/2.0.0/ui/ui/1.0.0/ui.js,/mtd/pc/index/2.0.0/gb/lib.min.js,/mtd/pc/base/1.0.0/base.js,/mtd/pc/common/js/o2_ua.js,/mtd/pc/index/2.0.0/home/index.min.js,/mtd/pc/index/2.0.0/home/init.min.js, line 8: TypeError: e is not a constructor
+JavaScript error: https://misc.360buyimg.com/??/jdf/lib/jquery-1.6.4.js,/jdf/2.0.0/ui/ui/1.0.0/ui.js,/mtd/pc/index/2.0.0/gb/lib.min.js,/mtd/pc/base/1.0.0/base.js,/mtd/pc/common/js/o2_ua.js,/mtd/pc/index/2.0.0/home/index.min.js,/mtd/pc/index/2.0.0/home/init.min.js, line 8: TypeError: e is not a constructor
+JavaScript error: https://misc.360buyimg.com/??/jdf/lib/jquery-1.6.4.js,/jdf/2.0.0/ui/ui/1.0.0/ui.js,/mtd/pc/index/2.0.0/gb/lib.min.js,/mtd/pc/base/1.0.0/base.js,/mtd/pc/common/js/o2_ua.js,/mtd/pc/index/2.0.0/home/index.min.js,/mtd/pc/index/2.0.0/home/init.min.js, line 8: TypeError: e is not a constructor
+1508417302297	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.jd.com/"
+1508417302297	Marionette	DEBUG	Received DOM event "unload" for "https://www.jd.com/"
+1508417302927	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://search.jd.com/Search?keyword=%E9%9D%A2%E8%86%9C%E5%BE%A1%E6%B3%A5%E5%9D%8A&enc=utf-8&pvid=596e09cb96aa4625aa6543ac46b277ab"
+1508417304305	Marionette	DEBUG	Received DOM event "pageshow" for "https://search.jd.com/Search?keyword=%E9%9D%A2%E8%86%9C%E5%BE%A1%E6%B3%A5%E5%9D%8A&enc=utf-8&pvid=596e09cb96aa4625aa6543ac46b277ab"
+1508417306919	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1508417454486	geckodriver	INFO	geckodriver 0.19.0
+1508417454499	geckodriver	INFO	Listening on 127.0.0.1:1931
+1508417456535	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofile.yURWOJR3uKLH"
+1508417457238	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1508417458199	Marionette	INFO	Enabled via --marionette
+[Child 3496] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3496] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1508417462771	Marionette	INFO	Listening on port 1942
+1508417463882	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508417463927	Marionette	DEBUG	Register listener.js for window 4294967297
+1508417464046	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508417464316	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508417464316	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1508417465106	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.jd.com/"
+1508417466530	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.jd.com/"
+1508417466829	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.jd.com/"
+JavaScript error: https://misc.360buyimg.com/??/jdf/lib/jquery-1.6.4.js,/jdf/2.0.0/ui/ui/1.0.0/ui.js,/mtd/pc/index/2.0.0/gb/lib.min.js,/mtd/pc/base/1.0.0/base.js,/mtd/pc/common/js/o2_ua.js,/mtd/pc/index/2.0.0/home/index.min.js,/mtd/pc/index/2.0.0/home/init.min.js, line 8: TypeError: e is not a constructor
+JavaScript error: https://misc.360buyimg.com/??/jdf/lib/jquery-1.6.4.js,/jdf/2.0.0/ui/ui/1.0.0/ui.js,/mtd/pc/index/2.0.0/gb/lib.min.js,/mtd/pc/base/1.0.0/base.js,/mtd/pc/common/js/o2_ua.js,/mtd/pc/index/2.0.0/home/index.min.js,/mtd/pc/index/2.0.0/home/init.min.js, line 8: TypeError: e is not a constructor
+JavaScript error: https://misc.360buyimg.com/??/jdf/lib/jquery-1.6.4.js,/jdf/2.0.0/ui/ui/1.0.0/ui.js,/mtd/pc/index/2.0.0/gb/lib.min.js,/mtd/pc/base/1.0.0/base.js,/mtd/pc/common/js/o2_ua.js,/mtd/pc/index/2.0.0/home/index.min.js,/mtd/pc/index/2.0.0/home/init.min.js, line 8: TypeError: e is not a constructor
+1508417467243	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.jd.com/"
+1508417467243	Marionette	DEBUG	Received DOM event "unload" for "https://www.jd.com/"
+1508417468193	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://search.jd.com/Search?keyword=%E9%9D%A2%E8%86%9C%E5%BE%A1%E6%B3%A5%E5%9D%8A&enc=utf-8&pvid=8cd116be219c480fa80ed5203ee9cad3"
+1508417469941	Marionette	DEBUG	Received DOM event "pageshow" for "https://search.jd.com/Search?keyword=%E9%9D%A2%E8%86%9C%E5%BE%A1%E6%B3%A5%E5%9D%8A&enc=utf-8&pvid=8cd116be219c480fa80ed5203ee9cad3"
+1508417472626	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Parent 8624] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8624] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8036] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1508417849420	geckodriver	INFO	geckodriver 0.19.0
+1508417849432	geckodriver	INFO	Listening on 127.0.0.1:3412
+1508417851461	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofile.JFjTypWpeqHU"
+1508417852109	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1508417853221	Marionette	INFO	Enabled via --marionette
+[Child 14416] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14416] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1508417857641	Marionette	INFO	Listening on port 3429
+1508417857702	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508417857759	Marionette	DEBUG	Register listener.js for window 4294967297
+1508417857898	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508417858213	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508417858214	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1508417858761	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.jd.com/"
+1508417860067	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.jd.com/"
+1508417860355	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.jd.com/"
+JavaScript error: https://misc.360buyimg.com/??/jdf/lib/jquery-1.6.4.js,/jdf/2.0.0/ui/ui/1.0.0/ui.js,/mtd/pc/index/2.0.0/gb/lib.min.js,/mtd/pc/base/1.0.0/base.js,/mtd/pc/common/js/o2_ua.js,/mtd/pc/index/2.0.0/home/index.min.js,/mtd/pc/index/2.0.0/home/init.min.js, line 8: TypeError: e is not a constructor
+JavaScript error: https://misc.360buyimg.com/??/jdf/lib/jquery-1.6.4.js,/jdf/2.0.0/ui/ui/1.0.0/ui.js,/mtd/pc/index/2.0.0/gb/lib.min.js,/mtd/pc/base/1.0.0/base.js,/mtd/pc/common/js/o2_ua.js,/mtd/pc/index/2.0.0/home/index.min.js,/mtd/pc/index/2.0.0/home/init.min.js, line 8: TypeError: e is not a constructor
+1508417861044	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.jd.com/"
+1508417861044	Marionette	DEBUG	Received DOM event "unload" for "https://www.jd.com/"
+1508417861567	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://search.jd.com/Search?keyword=%E9%9D%A2%E8%86%9C%E5%BE%A1%E6%B3%A5%E5%9D%8A&enc=utf-8&pvid=72cfcd2acb994f628771839e97f9aec2"
+1508417863190	Marionette	DEBUG	Received DOM event "pageshow" for "https://search.jd.com/Search?keyword=%E9%9D%A2%E8%86%9C%E5%BE%A1%E6%B3%A5%E5%9D%8A&enc=utf-8&pvid=72cfcd2acb994f628771839e97f9aec2"
+1508417865810	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[GPU 14764] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1508418189408	geckodriver	INFO	geckodriver 0.19.0
+1508418189421	geckodriver	INFO	Listening on 127.0.0.1:4687
+1508418191496	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofile.8pfSFTRAYgvv"
+1508418192283	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1508418193320	Marionette	INFO	Enabled via --marionette
+1508418198075	Marionette	INFO	Listening on port 4703
+1508418198827	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508418198876	Marionette	DEBUG	Register listener.js for window 4294967297
+1508418198995	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508418199212	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508418199212	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1508418199698	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.jd.com/"
+JavaScript error: https://www.jd.com/, line 734: TypeError: t is not a constructor
+1508418202835	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.jd.com/"
+1508418203086	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.jd.com/"
+JavaScript error: https://misc.360buyimg.com/??/jdf/lib/jquery-1.6.4.js,/jdf/2.0.0/ui/ui/1.0.0/ui.js,/mtd/pc/index/2.0.0/gb/lib.min.js,/mtd/pc/base/1.0.0/base.js,/mtd/pc/common/js/o2_ua.js,/mtd/pc/index/2.0.0/home/index.min.js,/mtd/pc/index/2.0.0/home/init.min.js, line 8: TypeError: e is not a constructor
+JavaScript error: https://misc.360buyimg.com/??/jdf/lib/jquery-1.6.4.js,/jdf/2.0.0/ui/ui/1.0.0/ui.js,/mtd/pc/index/2.0.0/gb/lib.min.js,/mtd/pc/base/1.0.0/base.js,/mtd/pc/common/js/o2_ua.js,/mtd/pc/index/2.0.0/home/index.min.js,/mtd/pc/index/2.0.0/home/init.min.js, line 8: TypeError: e is not a constructor
+1508418203450	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.jd.com/"
+1508418203450	Marionette	DEBUG	Received DOM event "unload" for "https://www.jd.com/"
+1508418204236	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://search.jd.com/Search?keyword=%E9%9D%A2%E8%86%9C%E5%BE%A1%E6%B3%A5%E5%9D%8A&enc=utf-8&pvid=5b398b17bf26422dbb4b6052bc0b136f"
+1508418205869	Marionette	DEBUG	Received DOM event "pageshow" for "https://search.jd.com/Search?keyword=%E9%9D%A2%E8%86%9C%E5%BE%A1%E6%B3%A5%E5%9D%8A&enc=utf-8&pvid=5b398b17bf26422dbb4b6052bc0b136f"
+1508418208522	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1508418400630	geckodriver	INFO	geckodriver 0.19.0
+1508418400644	geckodriver	INFO	Listening on 127.0.0.1:5590
+1508418402682	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofile.CzLejmuVHo9P"
+1508418403237	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1508418404381	Marionette	INFO	Enabled via --marionette
+1508418408611	Marionette	INFO	Listening on port 5601
+1508418408923	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508418408978	Marionette	DEBUG	Register listener.js for window 4294967297
+1508418409070	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508418409304	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508418409305	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1508418409733	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.jd.com/"
+1508418411463	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.jd.com/"
+1508418411702	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.jd.com/"
+JavaScript error: https://misc.360buyimg.com/??/jdf/lib/jquery-1.6.4.js,/jdf/2.0.0/ui/ui/1.0.0/ui.js,/mtd/pc/index/2.0.0/gb/lib.min.js,/mtd/pc/base/1.0.0/base.js,/mtd/pc/common/js/o2_ua.js,/mtd/pc/index/2.0.0/home/index.min.js,/mtd/pc/index/2.0.0/home/init.min.js, line 8: TypeError: e is not a constructor
+JavaScript error: https://misc.360buyimg.com/??/jdf/lib/jquery-1.6.4.js,/jdf/2.0.0/ui/ui/1.0.0/ui.js,/mtd/pc/index/2.0.0/gb/lib.min.js,/mtd/pc/base/1.0.0/base.js,/mtd/pc/common/js/o2_ua.js,/mtd/pc/index/2.0.0/home/index.min.js,/mtd/pc/index/2.0.0/home/init.min.js, line 8: TypeError: e is not a constructor
+JavaScript error: https://misc.360buyimg.com/??/jdf/lib/jquery-1.6.4.js,/jdf/2.0.0/ui/ui/1.0.0/ui.js,/mtd/pc/index/2.0.0/gb/lib.min.js,/mtd/pc/base/1.0.0/base.js,/mtd/pc/common/js/o2_ua.js,/mtd/pc/index/2.0.0/home/index.min.js,/mtd/pc/index/2.0.0/home/init.min.js, line 8: TypeError: e is not a constructor
+1508418412018	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.jd.com/"
+1508418412018	Marionette	DEBUG	Received DOM event "unload" for "https://www.jd.com/"
+1508418412585	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://search.jd.com/Search?keyword=%E9%9D%A2%E8%86%9C%E5%BE%A1%E6%B3%A5%E5%9D%8A&enc=utf-8&pvid=4e71e468a6264b7388cd82a9712e7cfb"
+1508418414193	Marionette	DEBUG	Received DOM event "pageshow" for "https://search.jd.com/Search?keyword=%E9%9D%A2%E8%86%9C%E5%BE%A1%E6%B3%A5%E5%9D%8A&enc=utf-8&pvid=4e71e468a6264b7388cd82a9712e7cfb"
+1508418417002	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Child 14476] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12436] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12436] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1508418662642	geckodriver	INFO	geckodriver 0.19.0
+1508418662654	geckodriver	INFO	Listening on 127.0.0.1:6597
+1508418664734	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofile.j3b5g9GXNCJO"
+1508418665259	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1508418666415	Marionette	INFO	Enabled via --marionette
+[Child 15056] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15056] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1508418670986	Marionette	INFO	Listening on port 6608
+1508418672064	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508418672113	Marionette	DEBUG	Register listener.js for window 4294967297
+1508418672222	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508418672585	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508418672585	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1508418673289	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.jd.com/"
+1508418675040	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.jd.com/"
+1508418675290	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.jd.com/"
+JavaScript error: https://misc.360buyimg.com/??/jdf/lib/jquery-1.6.4.js,/jdf/2.0.0/ui/ui/1.0.0/ui.js,/mtd/pc/index/2.0.0/gb/lib.min.js,/mtd/pc/base/1.0.0/base.js,/mtd/pc/common/js/o2_ua.js,/mtd/pc/index/2.0.0/home/index.min.js,/mtd/pc/index/2.0.0/home/init.min.js, line 8: TypeError: e is not a constructor
+JavaScript error: https://misc.360buyimg.com/??/jdf/lib/jquery-1.6.4.js,/jdf/2.0.0/ui/ui/1.0.0/ui.js,/mtd/pc/index/2.0.0/gb/lib.min.js,/mtd/pc/base/1.0.0/base.js,/mtd/pc/common/js/o2_ua.js,/mtd/pc/index/2.0.0/home/index.min.js,/mtd/pc/index/2.0.0/home/init.min.js, line 8: TypeError: e is not a constructor
+JavaScript error: https://misc.360buyimg.com/??/jdf/lib/jquery-1.6.4.js,/jdf/2.0.0/ui/ui/1.0.0/ui.js,/mtd/pc/index/2.0.0/gb/lib.min.js,/mtd/pc/base/1.0.0/base.js,/mtd/pc/common/js/o2_ua.js,/mtd/pc/index/2.0.0/home/index.min.js,/mtd/pc/index/2.0.0/home/init.min.js, line 8: TypeError: e is not a constructor
+1508418675869	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.jd.com/"
+1508418675870	Marionette	DEBUG	Received DOM event "unload" for "https://www.jd.com/"
+1508418676900	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://search.jd.com/Search?keyword=%E9%9D%A2%E8%86%9C%E5%BE%A1%E6%B3%A5%E5%9D%8A&enc=utf-8&pvid=6e67acadbdb348a996b967e3f50c39ca"
+1508418679434	Marionette	DEBUG	Received DOM event "pageshow" for "https://search.jd.com/Search?keyword=%E9%9D%A2%E8%86%9C%E5%BE%A1%E6%B3%A5%E5%9D%8A&enc=utf-8&pvid=6e67acadbdb348a996b967e3f50c39ca"
+1508418680671	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Parent 11340] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
